@@ -4,3 +4,8 @@ void testFunc (void)
 {
     
 }
+
+void testFunc2 (void)
+{
+    
+}
