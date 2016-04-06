@@ -9,3 +9,8 @@ void testFunc2 (void)
 {
     
 }
+
+void testFunc3 (void)
+{
+    
+}
