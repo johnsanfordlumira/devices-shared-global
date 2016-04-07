@@ -14,3 +14,9 @@ void testFunc3 (void)
 {
     
 }
+
+
+void testFunc4 (void)
+{
+    
+}
