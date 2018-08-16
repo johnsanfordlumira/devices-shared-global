@@ -1,28 +1,42 @@
 /* source module: commonTest3.c */
 
-void commonTest2Func (void)
+#include <stdint.h>
+
+uint32_t test2_var = 0;
+
+uint32_t commonTest2Func (void)
 {
-    
+    test2_var = 42;
+
+    return (test2_var);    
 }
 
-void commonTest2Func2 (void)
+uint32_t commonTest2Func2 (void)
 {
-    
+    test2_var = 43;
+
+    return (test2_var);        
 }
 
-void commonTest2Func3 (void)
+uint32_t commonTest2Func3 (void)
 {
-    
+    test2_var = 44;
+
+    return (test2_var);        
 }
 
 
-void commonTest2Func4 (void)
+uint32_t commonTest2Func4 (void)
 {
-    
+    test2_var = 45;
+
+    return (test2_var);    
 }
 
 
-void commonTest2Func5 (void)
+uint32_t commonTest2Func5 (void)
 {
-    
+    test2_var = 46;
+
+    return (test2_var);    
 }
