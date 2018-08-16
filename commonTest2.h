@@ -9,4 +9,4 @@ uint32_t commonTest2Func (void);
 uint32_t commonTest2Func2 (void);
 uint32_t commonTest2Func3 (void);
 uint32_t commonTest2Func4 (void);
-uint32_t commonTest2Func5 (void);
+uint32_t commonTest2Func5 (uint32_t initial_value_u32);
